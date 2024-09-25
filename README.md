@@ -16,9 +16,7 @@ As a movie enthusiast, I wanted to create a system that provides personalized mo
 
 ## Demo
 
-You can watch the demo of my Movie Recommender System below:
-
-<iframe src="https://drive.google.com/file/d/1H7jI3e23rteQ0KZmtIqNAwlBiGFKiUDQ/preview" width="640" height="480" allow="autoplay"></iframe>
+You can watch the demo of my Movie Recommender System [here](https://drive.google.com/file/d/1H7jI3e23rteQ0KZmtIqNAwlBiGFKiUDQ/view)
 
 ## Dataset
 
